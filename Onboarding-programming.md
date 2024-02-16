@@ -7,7 +7,7 @@
 
 - Package of common functions [T2-DataManagementModel](https://github.com/UMC-Utrecht-RWE/T2-DataManagementModel)
 
-- 
+
 ## A mini task
 
 To get started on a new project repo:
