@@ -1,16 +1,6 @@
-# TODO
-
-## Today todo
-
-1. this
-2. that
-
-## Weekly todo
-
 # Achievements
 
-## Weekly
+1.  Onboarding packet
+2.  Training courses
+3.  [Program tasks](Onboarding-programming.html)
 
-## Periodic
-
-# Links
