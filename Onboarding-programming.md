@@ -6,6 +6,7 @@
 - To develop a new repo: [Repo template](https://github.com/UMC-Utrecht-RWE/repo_template)
 
 - Package of common functions [T2-DataManagementModel](https://github.com/UMC-Utrecht-RWE/T2-DataManagementModel)
+    - [Flowchart](https://github.com/UMC-Utrecht-RWE/T2-DataManagementModel/blob/b0c178c660a7e04e6f2bf4683808ea6dec6fac66/man/T2_DMM.png)
 
 
 ## A mini task
