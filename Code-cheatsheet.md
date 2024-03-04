@@ -2,5 +2,5 @@
 
 | Code | Detail |
 | ----- | ------ |
-| `git branch -a` | check remote connection |
-| `git status` | check branch status |
+| `git branch -a` | check branches and remote connection |
+| `git status` | check file change since last push |
